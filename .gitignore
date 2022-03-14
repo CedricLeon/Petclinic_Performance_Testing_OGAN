@@ -1,0 +1,6 @@
+*.db
+*.psproj
+stgem/*
+.idea/*
+__pycache__/*
+*.pickle
